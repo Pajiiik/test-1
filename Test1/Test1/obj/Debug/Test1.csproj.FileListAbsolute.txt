@@ -1,0 +1,10 @@
+G:\PRG\Test1\Test1\bin\Debug\Test1.exe.config
+G:\PRG\Test1\Test1\bin\Debug\Test1.exe
+G:\PRG\Test1\Test1\bin\Debug\Test1.pdb
+G:\PRG\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+G:\PRG\Test1\Test1\obj\Debug\Test1.Form1.resources
+G:\PRG\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+G:\PRG\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+G:\PRG\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+G:\PRG\Test1\Test1\obj\Debug\Test1.exe
+G:\PRG\Test1\Test1\obj\Debug\Test1.pdb
